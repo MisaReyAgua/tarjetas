@@ -1,0 +1,50 @@
+
+.tarjeta{
+    border: 1px solid   #583101;
+    width: 350px;
+    border-radius: 5px;
+    box-shadow: #925913 1px 1px 10px;
+    margin: 50px;
+}
+
+.tarjeta img{
+    width: 200px;
+    height: 280;
+ 
+}
+
+.cuerpo-tarjeta{
+    text-align: center;
+}
+
+.tarjeta div{
+    padding: 15px;
+}
+
+.descripcion{
+    text-align: justify;
+}
+
+.precio{
+    text-align: center;
+}
+
+.titulo-tarjeta{
+    text-align: center;
+    font-weight: 800;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #583101;
+    background-color: #583101;
+    color: white;
+    font-size: 20px;
+}
+
+.tarjeta button{
+    padding: 10px;
+    background-color: #925913;
+    color: white;
+    font-size: 25px;
+    border: 1px solid #925913;
+    border-radius: 10px;
+    
+}
